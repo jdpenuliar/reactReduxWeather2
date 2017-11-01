@@ -16,10 +16,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 	> npm start
 ```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+####Steps#####
+1. get proper weather api credentials
+2. set up reducers and actions to receive sample data
+3. set up two components for search bar and div for displaying temparature and humidity from weather api maps(optional but preffered)
+4. set components to connect to redux (only ones that deem needed).
 
-```
-	> npm install
-	> npm start
-```
